@@ -3,6 +3,6 @@ using namespace std;
 void main() {
 	cout << "¡Hola mundo!\n";
 	for (int i = 0; i < 100; i++)
-		cout << "si"<< "\n";
+		cout << i<< "\n";
 	system("pause>null");
 }
