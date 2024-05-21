@@ -6,6 +6,7 @@ void main() {
 	for (int i = 0; i < 100; i++)
 	{
 		//Mientras mas codigo mejor o que put0?
+		/*Si c:*/
 		cout << i << "\n";
 	}
 	system("pause>null");
