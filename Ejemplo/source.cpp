@@ -1,5 +1,6 @@
 #include<iostream>
+using namespace std;
 void main() {
-	std::cout << "¡Hola mundo!\n";
+	cout << "¡Hola mundo!\n";
 	system("pause>null");
 }
